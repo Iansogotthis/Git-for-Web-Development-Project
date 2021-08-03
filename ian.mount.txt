@@ -1,4 +1,4 @@
-   --> https://codepen.io/iansogotthis/pen/PomBxgj
+   https://codepen.io/iansogotthis/pen/PomBxgj
 
     1. What is Semantic HTML? 
     HTML code that has a function that can be understood by anyone reading it, simply by reading it.
